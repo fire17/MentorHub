@@ -3,7 +3,7 @@
 
 ## General TODO:
 fix generator
-save spot in course
+save spot in 20/12/20 course
 return ami's cart
 
 ## Idea - Daily builds
